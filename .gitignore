@@ -8,7 +8,11 @@ config/client_session_key.aes
 .hsenv*
 cabal-dev/
 yesod-devel/
-.cabal-sandbox
+.cabal-sandbox/
 cabal.sandbox.config
+cabal.config
 .DS_Store
 *.swp
+*.chi
+*.chs.h
+.virtualenv
